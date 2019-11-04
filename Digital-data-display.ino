@@ -7,7 +7,7 @@ void setup()
 void loop()
 {
   lcd.setCursor(0,0);
-  lcd.print("  India is ");
+  lcd.print(" Arijit Saha ");
   lcd.setCursor(2,1);
-  lcd.print("  cool");
+  lcd.print(" Shady ");
 }
